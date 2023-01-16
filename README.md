@@ -12,8 +12,8 @@ Connecting the resulting system to a Linux via Kernel Modules in `C` and applica
 
 * :computer: Research Assistant
 * :mortar_board: Master of Applied Research on Industrial Security 
-* :heavy_check_mark: Bachelor of Engineering (Mechatronics)
-* :heavy_check_mark: Certified car technician
+* :mortar_board: Bachelor of Engineering (Mechatronics)
+* :car: Certified car technician
 
 ### :computer: My life in Tech
 
@@ -21,7 +21,7 @@ Connecting the resulting system to a Linux via Kernel Modules in `C` and applica
 * :construction: Thinking about a tech and photography blog - stay tuned!
 * :tada: Research on the Behavior of PLC in the field of IIoT 4.0
 * :beginner: Learning `Rust` for Embedded Devices and LKM
-* :raising_hand: Contact me, even about PCB design or car stuff, I will gladly assist you;
+* :raising_hand: Contact me, even about PCB design or car stuff, I will gladly assist you :muscle:
 
 ### :microscope: Publications
 
