@@ -2,7 +2,10 @@
 
 ## Hi 👋, I'm [Schubi](https://www.github.com/schubi93)
 
-I'm currently researching Embedded Device Security at the University of Applied Sciences Augsburg, being a member of the **Institute of innovative Safety and Security [HSA_innos](https://github.com/hsainnos)**.
+I'm currently researching Embedded Device Security at the Technical University of Applied Sciences Augsburg.
+Member of the **Institute of innovative Safety and Security**, called [HSA_innos](https://github.com/hsainnos)
+
+:raising_hand: Contact me, even about PCB design or car stuff, I will gladly assist you :muscle:
 
 :page_with_curl: Check my publications at: [ORCID 0009-0005-7046-7698](https://orcid.org/0009-0005-7046-7698)
 
@@ -26,4 +29,3 @@ Connecting the resulting system to a Linux via Kernel Modules in `C` and applica
 - :construction: Thinking about a tech and photography blog - stay tuned!
 - :tada: Research on the Behavior of PLC in the field of IIoT 4.0
 - :beginner: Learning `Rust` for Embedded Devices and LKM
-- :raising_hand: Contact me, even about PCB design or car stuff, I will gladly assist you :muscle:
