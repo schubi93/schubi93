@@ -3,7 +3,7 @@
 ## Hi 👋, I'm [Schubi](https://www.github.com/schubi93)
 
 I'm currently researching Embedded Device Security at the Technical University of Applied Sciences Augsburg.
-Member of the **Institute of innovative Safety and Security**, called [HSA_innos](https://github.com/hsainnos)
+Member of the **Institute of innovative Safety and Security**, called [THA_innos](https://github.com/hsainnos)
 
 :raising_hand: Contact me, even about PCB design or car stuff, I will gladly assist you :muscle:
 
