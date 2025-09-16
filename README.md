@@ -1,31 +1,46 @@
 <img align="right" height="140" alt="Schubi93" src="src/schubi93.png"/>
 
-## Hi 👋, I'm [Schubi](https://www.github.com/schubi93)
+# Hi 👋, I'm [Schubi](https://www.github.com/schubi93)
 
-I'm currently researching Embedded Device Security at the Technical University of Applied Sciences Augsburg.
-Member of the **Institute of innovative Safety and Security**, called [THA_innos](https://github.com/hsainnos)
+**Embedded Device Security Researcher** at Technical University of Applied Sciences Augsburg  
+Member of the **Institute of Innovative Safety and Security** ([THA_innos](https://github.com/hsainnos))
 
-:raising_hand: Contact me, even about PCB design or car stuff, I will gladly assist you :muscle:
-
-:page_with_curl: Check my publications at: [ORCID 0009-0005-7046-7698](https://orcid.org/0009-0005-7046-7698)
+💬 **Open to collaboration** on embedded security projects - either on an **academic basis** or through **freelance work**  
+📄 **Publications**: [ORCID 0009-0005-7046-7698](https://orcid.org/0009-0005-7046-7698)
 
 ---
-As my current project, I'm working on device identities, their lifecycle requirements and implementation for resource-restricted IoT devices in cooperation with industrial partners.
 
-Prior, I developed hardware in `Verilog`, adding peripheral components to the PicoRV32 Soft-core, running `C/C++` code.
-Connecting the resulting system to a Linux via Kernel Modules in `C` and applications in `Python` to overcome the need of external secure elements.
+## 🔬 Current Research Focus
 
-### :heavy_dollar_sign: whoami
+I'm developing **device identity solutions** for resource-constrained IoT devices, focusing on **secure provisioning**, **production security**, and complete lifecycle management in partnership with industry leaders.
 
-- :computer: Research Assistant
-- :mortar_board: Master of Applied Research on Industrial Security
-- :mortar_board: Bachelor of Engineering (Mechatronics)
-- :car: Certified car technician
+**Technical expertise includes:**
+- **C/C++** embedded programming for bare-metal and Linux systems
+- **Python** applications for secure artifact deployment and automation
+- **Verilog** hardware development with PicoRV32 soft-core integration
 
-### :computer: My life in Tech
+## 💼 Professional Background
 
-- :factory: Research on IoT device identities and enrollment
-- :fireworks: Maintainer of the **FISMOS**
-- :construction: Thinking about a tech and photography blog - stay tuned!
-- :tada: Research on the Behavior of PLC in the field of IIoT 4.0
-- :beginner: Learning `Rust` for Embedded Devices and LKM
+- 🔬 **Research Associate** - Embedded Device Security
+- 🎓 **M.Sc.** Applied Research on Industrial Security
+- 🎓 **B.Eng.** Mechatronics Engineering  
+- 🚗 **Certified Automotive Technician**
+
+## 🚀 Active Projects & Interests
+
+- 🏭 **IoT Device Identity Research** - Secure enrollment, provisioning, and production security
+- 🎆 **FISMOS Maintainer** - Open source security framework for embedded systems
+- 🏔️ **Outdoor, Lifestyle & Travel Content** - Ask me for collaboration!
+
+## 🛠️ Technical Stack
+
+**Languages**: C/C++, Python, Verilog  
+**Specializations**: Embedded Systems, IoT Security, Production Security, Device Provisioning  
+**Tools**: Linux Kernel Development, Hardware Design, PLC Programming, Secure Boot Implementation
+
+## 📈 Research Impact
+
+Currently exploring the intersection of **hardware security** and **industrial IoT**, with a focus on creating practical, scalable solutions for device identity management that can be deployed in real-world manufacturing environments.
+
+---
+*Let's connect and discuss embedded security, research opportunities, or exciting collaboration ideas!* 🚀
