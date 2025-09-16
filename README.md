@@ -15,9 +15,9 @@ Member of the **Institute of Innovative Safety and Security** ([THA_innos](https
 I'm developing **device identity solutions** for resource-constrained IoT devices, focusing on **secure provisioning**, **production security**, and complete lifecycle management in partnership with industry leaders.
 
 **Technical expertise includes:**
-- **C/C++** embedded programming for bare-metal and Linux systems
-- **Python** applications for secure artifact deployment and automation
-- **Verilog** hardware development with PicoRV32 soft-core integration
+- **C/C++** embedded programming for bare-metal and RTOS systems
+- **Python** applications for secure artifact deployment and cryptographic tooling
+- **Verilog** hardware development with hardware security modules (HSM)
 
 ## 💼 Professional Background
 
@@ -29,18 +29,19 @@ I'm developing **device identity solutions** for resource-constrained IoT device
 ## 🚀 Active Projects & Interests
 
 - 🏭 **IoT Device Identity Research** - Secure enrollment, provisioning, and production security
+- 🎓 **Educational Embedded Systems** - Developing dedicated platforms for academic education
 - 🎆 **FISMOS Maintainer** - Open source security framework for embedded systems
 - 🏔️ **Outdoor, Lifestyle & Travel Content** - Ask me for collaboration!
 
 ## 🛠️ Technical Stack
 
-**Languages**: C/C++, Python, Verilog  
-**Specializations**: Embedded Systems, IoT Security, Production Security, Device Provisioning  
-**Tools**: Linux Kernel Development, Hardware Design, PLC Programming, Secure Boot Implementation
+**Languages**: C/C++, Python, Verilog, Assembly  
+**Specializations**: Hardware Security Modules, Cryptographic Implementations, Device Authentication, Secure Boot  
+**Tools**: ARM TrustZone, Hardware Security Extensions, Cryptographic Libraries, JTAG/SWD Debugging
 
 ## 📈 Research Impact
 
-Currently exploring the intersection of **hardware security** and **industrial IoT**, with a focus on creating practical, scalable solutions for device identity management that can be deployed in real-world manufacturing environments.
+Currently exploring the intersection of **hardware security** and **industrial IoT**, with a focus on creating practical, scalable solutions for device identity management and secure provisioning that can be deployed in resource-constrained manufacturing environments.
 
 ---
 *Let's connect and discuss embedded security, research opportunities, or exciting collaboration ideas!* 🚀
