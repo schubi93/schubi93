@@ -1,6 +1,6 @@
 <img align="right" height="140" alt="Schubi93" src="src/schubi93.png"/>
 
-# Hi 👋, I'm [Schubi](https://www.github.com/schubi93)
+# Hi 👋, I'm [Philipp](https://www.github.com/schubi93)
 
 **Embedded Device Security Researcher** at Technical University of Applied Sciences Augsburg  
 Member of the **Institute of Innovative Safety and Security** ([THA_innos](https://github.com/hsainnos))
